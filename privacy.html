@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Datenschutz - ForsakenHEROS</title><style>body{font-family:system-ui,sans-serif;max-width:760px;margin:2rem auto;padding:0 1rem;line-height:1.6;background:#14100f;color:#e8e0da}h1,h2{color:#e0b36a}pre{white-space:pre-wrap}</style></head><body><pre># ForsakenHEROS Datenschutzerklärung-Entwurf
+
+Stand: 2026-05-31
+
+Dieser Text beschreibt den aktuellen technischen Datenstand des Vertical Slice. Anbieter, Datenschutzkontakt, finale Hosting-URL, Store-spezifische Datenflüsse und juristische Freigabe werden vor Veröffentlichung über `LegalProviderIdentity`, `PrivacyContactAndHosting` und `LegalReviewApproval` in `Builds/StoreSubmission/&lt;Version&gt;/external-submission-inputs.json` ergänzt.
+
+## Verantwortlicher
+
+Anbieter und Datenschutzkontakt sind vor Store-Einreichung einzutragen. Bis zur finalen Freigabe dient dieses Dokument als technischer Datenschutzentwurf für Entwicklung und Prüfung. Die finalen Werte kommen aus `LegalProviderIdentity` und `PrivacyContactAndHosting`.
+
+## Verarbeitete Daten im aktuellen Slice
+
+- Lokale Spieldaten: Inventar, Ausrüstung, Skillzustände, Version und technische Einstellungen werden lokal im Spielkontext verarbeitet.
+- Netzwerkdaten: Beim Listen-Server-Spiel werden IP-basierte Verbindungen zwischen Host und Client aufgebaut. Der Host verarbeitet Dungeon-Seed, Loot, Schaden und Matchstatus.
+- Versionsprüfung: Das Spiel kann beim Start und periodisch ein HTTPS-Manifest abrufen. Dabei können Zielserver technisch notwendige Verbindungsdaten wie IP-Adresse, Zeitpunkt, User-Agent und HTTP-Status verarbeiten.
+- Logs: Unreal Engine und das Spiel schreiben lokale Logdateien zur Fehlersuche. Diese Logs werden nicht automatisch an den Anbieter übertragen.
+
+## Nicht enthalten im aktuellen Slice
+
+Der aktuelle Build enthält keine eigenen Benutzerkonten, keine Ingame-Käufe, keine Werbung, keine Analytics-SDKs, keine integrierte Sprachkommunikation, keine Freundesliste, keine Cloud-Saves und keine automatische Crash-Report-Übertragung an den Anbieter.
+
+## Store- und Plattformdaten
+
+Microsoft Store, Epic Games Store und Steam können eigene Konto-, Zahlungs-, Download-, Review-, Crash-, Nutzungs- oder Sicherheitsdaten nach ihren jeweiligen Bedingungen verarbeiten. ForsakenHEROS nutzt solche Store-SDK-Funktionen im aktuellen Slice noch nicht direkt; eine spätere Integration muss hier ergänzt werden.
+
+## Zweck der Verarbeitung
+
+Daten werden verarbeitet, um das Spiel lokal auszuführen, 2-Spieler-Netzwerkpartien zu ermöglichen, Versionen zu prüfen, Fehler zu diagnostizieren und Store-Anforderungen an Aktualität und Sicherheit zu erfüllen.
+
+## Speicherdauer
+
+Lokale Logs und Spieldaten bleiben auf dem jeweiligen Gerät, bis sie durch den Nutzer, durch das Spiel oder durch Betriebssystemprozesse gelöscht werden. Serverlogs des späteren Manifest-Hostings richten sich nach dem final gewählten Hosting-Anbieter.
+
+## Rechte der Nutzer
+
+Nutzer können je nach anwendbarem Recht Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch und Datenübertragbarkeit verlangen. Konkreter Kontaktweg und zuständige Aufsichtsbehörde werden vor Veröffentlichung über `PrivacyContactAndHosting` ergänzt.
+</pre></body></html>
