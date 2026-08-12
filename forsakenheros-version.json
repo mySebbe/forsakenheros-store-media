@@ -1,9 +1,9 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.69",
+    "latestVersion":  "0.6.70",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.69: Das Item-System hat jetzt eine echte, balancierbare Schadens- und Lebenspunkte-Rechnung: Maechtigere Waffen schlagen unmittelbar haerter (die Angriffskraft traegt den Schaden, der Maus-Tempo-Bonus ist relativ zur Waffe gekappt), und bessere Ruestungsteile reduzieren eingehenden Schaden prozentual statt kaum spuerbar flach - volle Ruestung haelt frueh rund ein Sechstel und spaet ueber die Haelfte ab. Gegner treffen exakt so hart wie bisher. Neu im HUD: eine Zeile mit euren effektiven Werten (Schaden, Ruestung, Kritchance) direkt unter Leben und Ausdauer."
+    "message":  "Tester-Build 0.6.70: Das Spiel sagt euch jetzt selbst Bescheid, wenn es ein Update gibt: Beim Start prueft es die aktuelle Version gegen den Update-Dienst und zeigt im Hauptmenue an, ob euer Stand aktuell ist oder eine neue Version bereitsteht - egal ob ihr ueber itch.io oder den Microsoft Store spielt. Dazu Feinschliff an der Release-Pipeline."
 }
