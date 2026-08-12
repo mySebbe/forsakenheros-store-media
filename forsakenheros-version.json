@@ -1,9 +1,36 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.70",
+    "latestVersion":  "0.6.71",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.70: Das Spiel sagt euch jetzt selbst Bescheid, wenn es ein Update gibt: Beim Start prueft es die aktuelle Version gegen den Update-Dienst und zeigt im Hauptmenue an, ob euer Stand aktuell ist oder eine neue Version bereitsteht - egal ob ihr ueber itch.io oder den Microsoft Store spielt. Dazu Feinschliff an der Release-Pipeline."
+    "message":  "Tester-Build 0.6.71: Menue-Feinschliff nach eurem Feedback: Die linke Menuespalte scrollt jetzt bei kleinen Fenstern, statt ueber die Lautstaerke-Leiste zu laufen. Der Neuigkeiten-Bereich zeigt die letzten vier Versionen statt nur der neuesten und folgt jetzt vollstaendig dem Sprachschalter - auf Englisch erscheinen die Release-Notes auf Englisch.",
+    "history":  [
+                    {
+                        "version":  "0.6.71",
+                        "messageDe":  "Menue-Feinschliff nach eurem Feedback: Die linke Menuespalte scrollt jetzt bei kleinen Fenstern, statt ueber die Lautstaerke-Leiste zu laufen. Der Neuigkeiten-Bereich zeigt die letzten vier Versionen statt nur der neuesten und folgt jetzt vollstaendig dem Sprachschalter - auf Englisch erscheinen die Release-Notes auf Englisch.",
+                        "messageEn":  "Menu polish based on your feedback: the left menu column now scrolls on small windows instead of running over the volume bar. The news section shows the last four versions instead of only the newest and now fully follows the language switch - in English, release notes appear in English."
+                    },
+                    {
+                        "version":  "0.6.70",
+                        "messageDe":  "Das Spiel sagt euch jetzt selbst Bescheid, wenn es ein Update gibt: Beim Start prueft es die aktuelle Version gegen den Update-Dienst und zeigt im Hauptmenue an, ob euer Stand aktuell ist oder eine neue Version bereitsteht - egal ob ihr ueber itch.io oder den Microsoft Store spielt. Dazu Feinschliff an der Release-Pipeline.",
+                        "messageEn":  "The game now tells you itself when an update is available: on startup it checks your version against the update service and shows in the main menu whether your build is current or a new version is ready - whether you play via itch.io or the Microsoft Store. Plus release-pipeline polish."
+                    },
+                    {
+                        "version":  "0.6.69",
+                        "messageDe":  "Das Item-System hat jetzt eine echte, balancierbare Schadens- und Lebenspunkte-Rechnung: Maechtigere Waffen schlagen unmittelbar haerter (die Angriffskraft traegt den Schaden, der Maus-Tempo-Bonus ist relativ zur Waffe gekappt), und bessere Ruestungsteile reduzieren eingehenden Schaden prozentual statt kaum spuerbar flach - volle Ruestung haelt frueh rund ein Sechstel und spaet ueber die Haelfte ab. Gegner treffen exakt so hart wie bisher. Neu im HUD: eine Zeile mit euren effektiven Werten (Schaden, Ruestung, Kritchance) direkt unter Leben und Ausdauer.",
+                        "messageEn":  "The item system now has a real, tunable damage and health calculation: mightier weapons hit noticeably harder (attack power carries the damage, the mouse-speed bonus is capped relative to the weapon), and better armor pieces reduce incoming damage by a percentage instead of a barely noticeable flat amount - full armor blocks about a sixth early on and more than half later. Enemies hit exactly as hard as before. New on the HUD: a line with your effective stats (damage, armor, crit chance) right below health and stamina."
+                    },
+                    {
+                        "version":  "0.6.68",
+                        "messageDe":  "Grosse Aufraeum-Runde nach eurem Feedback: Die sichtbaren Waende stehen jetzt exakt auf der Kollisionslinie (kein Durchlaufen mehr) und der Kollisionsspalt neben den Torboegen ist geschlossen. Die Kamera bleibt ruhig - unsichtbare Blocker, Treppen, Podeste und Pfeiler schubsen sie nicht mehr, nur echte Waende und Boeden fuehren sie. Ueberall deutlich weniger Schutt und Deko, die Obergeschoss-Baender tragen durchgehende Balkenkanten. Heiltrank-Flaschen erscheinen nur noch als aufnehmbare Items - Ambient-Deko zeigt stattdessen Kelche. Neu im Menue: Spiel beenden.",
+                        "messageEn":  "Big cleanup round based on your feedback: visible walls now stand exactly on the collision line (no more clipping through) and the collision gap next to the archways is closed. The camera stays calm - invisible blockers, stairs, platforms and pillars no longer push it around, only real walls and floors guide it. Much less rubble and decoration everywhere, and the upper-floor bands carry continuous beam edges. Healing potion bottles only appear as pickup items - ambient decoration shows chalices instead. New in the menu: Exit game."
+                    },
+                    {
+                        "version":  "0.6.67",
+                        "messageDe":  "Der Physik-Nahkampf fuehlt sich jetzt echt an: Die Maus setzt ein Ziel im Raum und die simulierten Arme lehnen spuerbar hinein, die waffenfuehrenden Haende tragen echte Traegheit mit Durchschlagschutz, und das Ein- und Ausschalten blendet weich statt zu springen. Ein neuer Beweismodus rendert echte Physik-Schwuenge automatisch. Gegner kippen ausserdem bei jedem Treffer sichtbar vom Schlag weg und federn zurueck. Der Schalter Physischer Nahkampf bleibt vorerst standardmaessig aus - Feedback dazu ist willkommen.",
+                        "messageEn":  "Physical melee finally feels real: the mouse sets a target in space and the simulated arms lean into it, the weapon-bearing hands carry real inertia with punch-through protection, and toggling blends smoothly instead of snapping. A new proof mode renders real physics swings automatically. Enemies also visibly tip away from every hit and spring back. The Physical melee toggle stays off by default for now - feedback is welcome."
+                    }
+                ]
 }
