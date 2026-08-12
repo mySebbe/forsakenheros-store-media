@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.71",
+    "latestVersion":  "0.6.72",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.71: Menue-Feinschliff nach eurem Feedback: Die linke Menuespalte scrollt jetzt bei kleinen Fenstern, statt ueber die Lautstaerke-Leiste zu laufen. Der Neuigkeiten-Bereich zeigt die letzten vier Versionen statt nur der neuesten und folgt jetzt vollstaendig dem Sprachschalter - auf Englisch erscheinen die Release-Notes auf Englisch.",
+    "message":  "Tester-Build 0.6.72: Die zweite Ebene ist komplett ueberarbeitet: Die Bruestungen tragen jetzt echte Steinverkleidung statt roher Bloecke, die Feuerschalen sitzen als Leuchtfeuer in den Ring-Ecken, und der Rundgang hat lesbare Zonen - ein Wachposten mit Fackel an der Treppen-Ankunft, ein Kisten-Lager im Norden und eine Kelch-Nische im Westen. Alles steht an Waenden und Ecken, die Laufwege bleiben frei.",
     "history":  [
+                    {
+                        "version":  "0.6.72",
+                        "messageDe":  "Die zweite Ebene ist komplett ueberarbeitet: Die Bruestungen tragen jetzt echte Steinverkleidung statt roher Bloecke, die Feuerschalen sitzen als Leuchtfeuer in den Ring-Ecken, und der Rundgang hat lesbare Zonen - ein Wachposten mit Fackel an der Treppen-Ankunft, ein Kisten-Lager im Norden und eine Kelch-Nische im Westen. Alles steht an Waenden und Ecken, die Laufwege bleiben frei.",
+                        "messageEn":  "The second floor got a complete rework: the parapets now carry real stone cladding instead of raw blocks, the fire dishes sit as beacons in the ring corners, and the walkway has readable zones - a guard post with a torch at the stair arrival, a crate depot to the north and a chalice niche to the west. Everything stands against walls and corners, the walkways stay clear."
+                    },
                     {
                         "version":  "0.6.71",
                         "messageDe":  "Menue-Feinschliff nach eurem Feedback: Die linke Menuespalte scrollt jetzt bei kleinen Fenstern, statt ueber die Lautstaerke-Leiste zu laufen. Der Neuigkeiten-Bereich zeigt die letzten vier Versionen statt nur der neuesten und folgt jetzt vollstaendig dem Sprachschalter - auf Englisch erscheinen die Release-Notes auf Englisch.",
@@ -26,11 +31,6 @@
                         "version":  "0.6.68",
                         "messageDe":  "Grosse Aufraeum-Runde nach eurem Feedback: Die sichtbaren Waende stehen jetzt exakt auf der Kollisionslinie (kein Durchlaufen mehr) und der Kollisionsspalt neben den Torboegen ist geschlossen. Die Kamera bleibt ruhig - unsichtbare Blocker, Treppen, Podeste und Pfeiler schubsen sie nicht mehr, nur echte Waende und Boeden fuehren sie. Ueberall deutlich weniger Schutt und Deko, die Obergeschoss-Baender tragen durchgehende Balkenkanten. Heiltrank-Flaschen erscheinen nur noch als aufnehmbare Items - Ambient-Deko zeigt stattdessen Kelche. Neu im Menue: Spiel beenden.",
                         "messageEn":  "Big cleanup round based on your feedback: visible walls now stand exactly on the collision line (no more clipping through) and the collision gap next to the archways is closed. The camera stays calm - invisible blockers, stairs, platforms and pillars no longer push it around, only real walls and floors guide it. Much less rubble and decoration everywhere, and the upper-floor bands carry continuous beam edges. Healing potion bottles only appear as pickup items - ambient decoration shows chalices instead. New in the menu: Exit game."
-                    },
-                    {
-                        "version":  "0.6.67",
-                        "messageDe":  "Der Physik-Nahkampf fuehlt sich jetzt echt an: Die Maus setzt ein Ziel im Raum und die simulierten Arme lehnen spuerbar hinein, die waffenfuehrenden Haende tragen echte Traegheit mit Durchschlagschutz, und das Ein- und Ausschalten blendet weich statt zu springen. Ein neuer Beweismodus rendert echte Physik-Schwuenge automatisch. Gegner kippen ausserdem bei jedem Treffer sichtbar vom Schlag weg und federn zurueck. Der Schalter Physischer Nahkampf bleibt vorerst standardmaessig aus - Feedback dazu ist willkommen.",
-                        "messageEn":  "Physical melee finally feels real: the mouse sets a target in space and the simulated arms lean into it, the weapon-bearing hands carry real inertia with punch-through protection, and toggling blends smoothly instead of snapping. A new proof mode renders real physics swings automatically. Enemies also visibly tip away from every hit and spring back. The Physical melee toggle stays off by default for now - feedback is welcome."
                     }
                 ]
 }
