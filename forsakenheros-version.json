@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.73",
+    "latestVersion":  "0.6.74",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.73: Physik-Modus-Feinschliff nach eurem Feedback: Die Figur haelt jetzt ihre Kampfhaltung, statt mit ausgebreiteten Armen zu haengen - im Stand ziehen straffe Muskeln die Arme in die animierte Pose, erst im Schwung uebernimmt das schwere Klingen-Gefuehl. Das Zittern beim Aktivieren ist durch deutlich staerkere Daempfung beruhigt, und der Wechsel zwischen Haltung und Schwung blendet weich.",
+    "message":  "Tester-Build 0.6.74: Map-Grundsanierung Teil 1: Jeder Raum hat jetzt eine echte Steindecke mit Balken und eigenem Licht - der Blick nach oben endet nicht mehr im Schwarzen, sondern an einem lesbaren Gewoelbe, das auf den Mauerkronen aufliegt. Auf der Empore blendet die Decke automatisch aus, sobald sie der Kamera im Weg waere. Weitere Teile der Map-Ueberarbeitung folgen.",
     "history":  [
+                    {
+                        "version":  "0.6.74",
+                        "messageDe":  "Map-Grundsanierung Teil 1: Jeder Raum hat jetzt eine echte Steindecke mit Balken und eigenem Licht - der Blick nach oben endet nicht mehr im Schwarzen, sondern an einem lesbaren Gewoelbe, das auf den Mauerkronen aufliegt. Auf der Empore blendet die Decke automatisch aus, sobald sie der Kamera im Weg waere. Weitere Teile der Map-Ueberarbeitung folgen.",
+                        "messageEn":  "Map overhaul part 1: every room now has a real stone ceiling with beams and its own light - looking up no longer ends in blackness but at a readable vault resting on the wall crowns. On the gallery the ceiling fades out automatically whenever it would block the camera. More parts of the map rework are coming."
+                    },
                     {
                         "version":  "0.6.73",
                         "messageDe":  "Physik-Modus-Feinschliff nach eurem Feedback: Die Figur haelt jetzt ihre Kampfhaltung, statt mit ausgebreiteten Armen zu haengen - im Stand ziehen straffe Muskeln die Arme in die animierte Pose, erst im Schwung uebernimmt das schwere Klingen-Gefuehl. Das Zittern beim Aktivieren ist durch deutlich staerkere Daempfung beruhigt, und der Wechsel zwischen Haltung und Schwung blendet weich.",
@@ -26,11 +31,6 @@
                         "version":  "0.6.70",
                         "messageDe":  "Das Spiel sagt euch jetzt selbst Bescheid, wenn es ein Update gibt: Beim Start prueft es die aktuelle Version gegen den Update-Dienst und zeigt im Hauptmenue an, ob euer Stand aktuell ist oder eine neue Version bereitsteht - egal ob ihr ueber itch.io oder den Microsoft Store spielt. Dazu Feinschliff an der Release-Pipeline.",
                         "messageEn":  "The game now tells you itself when an update is available: on startup it checks your version against the update service and shows in the main menu whether your build is current or a new version is ready - whether you play via itch.io or the Microsoft Store. Plus release-pipeline polish."
-                    },
-                    {
-                        "version":  "0.6.69",
-                        "messageDe":  "Das Item-System hat jetzt eine echte, balancierbare Schadens- und Lebenspunkte-Rechnung: Maechtigere Waffen schlagen unmittelbar haerter (die Angriffskraft traegt den Schaden, der Maus-Tempo-Bonus ist relativ zur Waffe gekappt), und bessere Ruestungsteile reduzieren eingehenden Schaden prozentual statt kaum spuerbar flach - volle Ruestung haelt frueh rund ein Sechstel und spaet ueber die Haelfte ab. Gegner treffen exakt so hart wie bisher. Neu im HUD: eine Zeile mit euren effektiven Werten (Schaden, Ruestung, Kritchance) direkt unter Leben und Ausdauer.",
-                        "messageEn":  "The item system now has a real, tunable damage and health calculation: mightier weapons hit noticeably harder (attack power carries the damage, the mouse-speed bonus is capped relative to the weapon), and better armor pieces reduce incoming damage by a percentage instead of a barely noticeable flat amount - full armor blocks about a sixth early on and more than half later. Enemies hit exactly as hard as before. New on the HUD: a line with your effective stats (damage, armor, crit chance) right below health and stamina."
                     }
                 ]
 }
