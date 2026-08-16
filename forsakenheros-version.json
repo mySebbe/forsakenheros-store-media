@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.72",
+    "latestVersion":  "0.6.73",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.72: Die zweite Ebene ist komplett ueberarbeitet: Die Bruestungen tragen jetzt echte Steinverkleidung statt roher Bloecke, die Feuerschalen sitzen als Leuchtfeuer in den Ring-Ecken, und der Rundgang hat lesbare Zonen - ein Wachposten mit Fackel an der Treppen-Ankunft, ein Kisten-Lager im Norden und eine Kelch-Nische im Westen. Alles steht an Waenden und Ecken, die Laufwege bleiben frei.",
+    "message":  "Tester-Build 0.6.73: Physik-Modus-Feinschliff nach eurem Feedback: Die Figur haelt jetzt ihre Kampfhaltung, statt mit ausgebreiteten Armen zu haengen - im Stand ziehen straffe Muskeln die Arme in die animierte Pose, erst im Schwung uebernimmt das schwere Klingen-Gefuehl. Das Zittern beim Aktivieren ist durch deutlich staerkere Daempfung beruhigt, und der Wechsel zwischen Haltung und Schwung blendet weich.",
     "history":  [
+                    {
+                        "version":  "0.6.73",
+                        "messageDe":  "Physik-Modus-Feinschliff nach eurem Feedback: Die Figur haelt jetzt ihre Kampfhaltung, statt mit ausgebreiteten Armen zu haengen - im Stand ziehen straffe Muskeln die Arme in die animierte Pose, erst im Schwung uebernimmt das schwere Klingen-Gefuehl. Das Zittern beim Aktivieren ist durch deutlich staerkere Daempfung beruhigt, und der Wechsel zwischen Haltung und Schwung blendet weich.",
+                        "messageEn":  "Physical-mode polish based on your feedback: the character now keeps a proper combat stance instead of hanging with outstretched arms - at rest, firm muscles pull the arms into the animated pose, and the heavy blade feel only takes over during a swing. The jitter on activation is calmed by much stronger damping, and the transition between stance and swing blends smoothly."
+                    },
                     {
                         "version":  "0.6.72",
                         "messageDe":  "Die zweite Ebene ist komplett ueberarbeitet: Die Bruestungen tragen jetzt echte Steinverkleidung statt roher Bloecke, die Feuerschalen sitzen als Leuchtfeuer in den Ring-Ecken, und der Rundgang hat lesbare Zonen - ein Wachposten mit Fackel an der Treppen-Ankunft, ein Kisten-Lager im Norden und eine Kelch-Nische im Westen. Alles steht an Waenden und Ecken, die Laufwege bleiben frei.",
@@ -26,11 +31,6 @@
                         "version":  "0.6.69",
                         "messageDe":  "Das Item-System hat jetzt eine echte, balancierbare Schadens- und Lebenspunkte-Rechnung: Maechtigere Waffen schlagen unmittelbar haerter (die Angriffskraft traegt den Schaden, der Maus-Tempo-Bonus ist relativ zur Waffe gekappt), und bessere Ruestungsteile reduzieren eingehenden Schaden prozentual statt kaum spuerbar flach - volle Ruestung haelt frueh rund ein Sechstel und spaet ueber die Haelfte ab. Gegner treffen exakt so hart wie bisher. Neu im HUD: eine Zeile mit euren effektiven Werten (Schaden, Ruestung, Kritchance) direkt unter Leben und Ausdauer.",
                         "messageEn":  "The item system now has a real, tunable damage and health calculation: mightier weapons hit noticeably harder (attack power carries the damage, the mouse-speed bonus is capped relative to the weapon), and better armor pieces reduce incoming damage by a percentage instead of a barely noticeable flat amount - full armor blocks about a sixth early on and more than half later. Enemies hit exactly as hard as before. New on the HUD: a line with your effective stats (damage, armor, crit chance) right below health and stamina."
-                    },
-                    {
-                        "version":  "0.6.68",
-                        "messageDe":  "Grosse Aufraeum-Runde nach eurem Feedback: Die sichtbaren Waende stehen jetzt exakt auf der Kollisionslinie (kein Durchlaufen mehr) und der Kollisionsspalt neben den Torboegen ist geschlossen. Die Kamera bleibt ruhig - unsichtbare Blocker, Treppen, Podeste und Pfeiler schubsen sie nicht mehr, nur echte Waende und Boeden fuehren sie. Ueberall deutlich weniger Schutt und Deko, die Obergeschoss-Baender tragen durchgehende Balkenkanten. Heiltrank-Flaschen erscheinen nur noch als aufnehmbare Items - Ambient-Deko zeigt stattdessen Kelche. Neu im Menue: Spiel beenden.",
-                        "messageEn":  "Big cleanup round based on your feedback: visible walls now stand exactly on the collision line (no more clipping through) and the collision gap next to the archways is closed. The camera stays calm - invisible blockers, stairs, platforms and pillars no longer push it around, only real walls and floors guide it. Much less rubble and decoration everywhere, and the upper-floor bands carry continuous beam edges. Healing potion bottles only appear as pickup items - ambient decoration shows chalices instead. New in the menu: Exit game."
                     }
                 ]
 }
