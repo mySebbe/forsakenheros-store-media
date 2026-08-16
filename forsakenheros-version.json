@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.74",
+    "latestVersion":  "0.6.75",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.74: Map-Grundsanierung Teil 1: Jeder Raum hat jetzt eine echte Steindecke mit Balken und eigenem Licht - der Blick nach oben endet nicht mehr im Schwarzen, sondern an einem lesbaren Gewoelbe, das auf den Mauerkronen aufliegt. Auf der Empore blendet die Decke automatisch aus, sobald sie der Kamera im Weg waere. Weitere Teile der Map-Ueberarbeitung folgen.",
+    "message":  "Tester-Build 0.6.75: Map-Grundsanierung Teil 2: Die Emporen-Gelaender sind jetzt rundum geschlossen verkleidet (auch die Stirnseiten - keine rohen Bloecke mehr), und die Raeume wirken bewohnter: eine Pranger-Ecke an der Suedwand und ein Wacht-Tisch mit Krug und Kerzenstaender an der Nordwand fuellen die bisher kahlen Wandabschnitte. Zusammen mit der neuen Steindecke aus dem letzten Update fuehlt sich der Dungeon damit deutlich massiver und vollstaendiger an.",
     "history":  [
+                    {
+                        "version":  "0.6.75",
+                        "messageDe":  "Map-Grundsanierung Teil 2: Die Emporen-Gelaender sind jetzt rundum geschlossen verkleidet (auch die Stirnseiten - keine rohen Bloecke mehr), und die Raeume wirken bewohnter: eine Pranger-Ecke an der Suedwand und ein Wacht-Tisch mit Krug und Kerzenstaender an der Nordwand fuellen die bisher kahlen Wandabschnitte. Zusammen mit der neuen Steindecke aus dem letzten Update fuehlt sich der Dungeon damit deutlich massiver und vollstaendiger an.",
+                        "messageEn":  "Map overhaul part 2: the gallery parapets are now fully clad on all sides (including the end faces - no more raw blocks), and the rooms feel more lived-in: a pillory corner on the south wall and a watch table with jug and candle holder on the north wall fill the previously bare wall sections. Together with the new stone ceiling from the last update, the dungeon now feels much more solid and complete."
+                    },
                     {
                         "version":  "0.6.74",
                         "messageDe":  "Map-Grundsanierung Teil 1: Jeder Raum hat jetzt eine echte Steindecke mit Balken und eigenem Licht - der Blick nach oben endet nicht mehr im Schwarzen, sondern an einem lesbaren Gewoelbe, das auf den Mauerkronen aufliegt. Auf der Empore blendet die Decke automatisch aus, sobald sie der Kamera im Weg waere. Weitere Teile der Map-Ueberarbeitung folgen.",
@@ -26,11 +31,6 @@
                         "version":  "0.6.71",
                         "messageDe":  "Menue-Feinschliff nach eurem Feedback: Die linke Menuespalte scrollt jetzt bei kleinen Fenstern, statt ueber die Lautstaerke-Leiste zu laufen. Der Neuigkeiten-Bereich zeigt die letzten vier Versionen statt nur der neuesten und folgt jetzt vollstaendig dem Sprachschalter - auf Englisch erscheinen die Release-Notes auf Englisch.",
                         "messageEn":  "Menu polish based on your feedback: the left menu column now scrolls on small windows instead of running over the volume bar. The news section shows the last four versions instead of only the newest and now fully follows the language switch - in English, release notes appear in English."
-                    },
-                    {
-                        "version":  "0.6.70",
-                        "messageDe":  "Das Spiel sagt euch jetzt selbst Bescheid, wenn es ein Update gibt: Beim Start prueft es die aktuelle Version gegen den Update-Dienst und zeigt im Hauptmenue an, ob euer Stand aktuell ist oder eine neue Version bereitsteht - egal ob ihr ueber itch.io oder den Microsoft Store spielt. Dazu Feinschliff an der Release-Pipeline.",
-                        "messageEn":  "The game now tells you itself when an update is available: on startup it checks your version against the update service and shows in the main menu whether your build is current or a new version is ready - whether you play via itch.io or the Microsoft Store. Plus release-pipeline polish."
                     }
                 ]
 }
