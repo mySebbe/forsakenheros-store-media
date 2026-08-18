@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.75",
+    "latestVersion":  "0.6.76",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.75: Map-Grundsanierung Teil 2: Die Emporen-Gelaender sind jetzt rundum geschlossen verkleidet (auch die Stirnseiten - keine rohen Bloecke mehr), und die Raeume wirken bewohnter: eine Pranger-Ecke an der Suedwand und ein Wacht-Tisch mit Krug und Kerzenstaender an der Nordwand fuellen die bisher kahlen Wandabschnitte. Zusammen mit der neuen Steindecke aus dem letzten Update fuehlt sich der Dungeon damit deutlich massiver und vollstaendiger an.",
+    "message":  "Tester-Build 0.6.76: Map-Feinschliff: Die Wandflaechen sind jetzt glatt geschlossen - vorspringende Einzel-Kacheln, eine Kachel-Saeule mitten in der Wand und ein altes schwarzes Void-Loch unter der Decke (offene Wandnaht) sind beseitigt. Die Treppen tragen jetzt gemauerte Seitenwangen statt nackter Rohbau-Flanken - an der Westtreppe und an den Galerie-Stufen im Treppenhaus.",
     "history":  [
+                    {
+                        "version":  "0.6.76",
+                        "messageDe":  "Map-Feinschliff: Die Wandflaechen sind jetzt glatt geschlossen - vorspringende Einzel-Kacheln, eine Kachel-Saeule mitten in der Wand und ein altes schwarzes Void-Loch unter der Decke (offene Wandnaht) sind beseitigt. Die Treppen tragen jetzt gemauerte Seitenwangen statt nackter Rohbau-Flanken - an der Westtreppe und an den Galerie-Stufen im Treppenhaus.",
+                        "messageEn":  "Map polish: the wall faces are now smoothly closed - protruding single tiles, a tile column in the middle of the wall and an old black void hole under the ceiling (an open wall seam) are gone. The stairs now carry masonry side cheeks instead of bare blockout flanks - on the west stair and on the gallery steps in the stairwell."
+                    },
                     {
                         "version":  "0.6.75",
                         "messageDe":  "Map-Grundsanierung Teil 2: Die Emporen-Gelaender sind jetzt rundum geschlossen verkleidet (auch die Stirnseiten - keine rohen Bloecke mehr), und die Raeume wirken bewohnter: eine Pranger-Ecke an der Suedwand und ein Wacht-Tisch mit Krug und Kerzenstaender an der Nordwand fuellen die bisher kahlen Wandabschnitte. Zusammen mit der neuen Steindecke aus dem letzten Update fuehlt sich der Dungeon damit deutlich massiver und vollstaendiger an.",
@@ -26,11 +31,6 @@
                         "version":  "0.6.72",
                         "messageDe":  "Die zweite Ebene ist komplett ueberarbeitet: Die Bruestungen tragen jetzt echte Steinverkleidung statt roher Bloecke, die Feuerschalen sitzen als Leuchtfeuer in den Ring-Ecken, und der Rundgang hat lesbare Zonen - ein Wachposten mit Fackel an der Treppen-Ankunft, ein Kisten-Lager im Norden und eine Kelch-Nische im Westen. Alles steht an Waenden und Ecken, die Laufwege bleiben frei.",
                         "messageEn":  "The second floor got a complete rework: the parapets now carry real stone cladding instead of raw blocks, the fire dishes sit as beacons in the ring corners, and the walkway has readable zones - a guard post with a torch at the stair arrival, a crate depot to the north and a chalice niche to the west. Everything stands against walls and corners, the walkways stay clear."
-                    },
-                    {
-                        "version":  "0.6.71",
-                        "messageDe":  "Menue-Feinschliff nach eurem Feedback: Die linke Menuespalte scrollt jetzt bei kleinen Fenstern, statt ueber die Lautstaerke-Leiste zu laufen. Der Neuigkeiten-Bereich zeigt die letzten vier Versionen statt nur der neuesten und folgt jetzt vollstaendig dem Sprachschalter - auf Englisch erscheinen die Release-Notes auf Englisch.",
-                        "messageEn":  "Menu polish based on your feedback: the left menu column now scrolls on small windows instead of running over the volume bar. The news section shows the last four versions instead of only the newest and now fully follows the language switch - in English, release notes appear in English."
                     }
                 ]
 }
