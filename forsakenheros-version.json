@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.77",
+    "latestVersion":  "0.6.78",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.77: Kampfhaltung + Inventar nach eurem Feedback: Im Physik-Modus steht die Figur jetzt in einer kompakten Kampfstellung - Haende vor dem Koerper, Ellenbogen angelegt, Kopf gerade - statt mit ausgebreiteten Armen. Und das Maus-Inventar gibt es schon: Taste I oeffnet das Fenster mit allen Ausruestungs-Slots und Fundstuecken, komplett per Maus bedienbar (Klick zum Anlegen, Ziehen auf Slots) - jetzt mit Hinweis in der Aktionsleiste und beim ersten Fund.",
+    "message":  "Tester-Build 0.6.78: Kampfhaltung-Feinschliff nach dem 0.6.77-Feedback: Die Grundhaltung im Physik-Modus ist jetzt eine geschlossene Kampfstellung - beide Haende vor dem Koerper (auch die Schildhand), Ellenbogen angelegt, Kopf gerade. Der Schildarm hing zuvor durch das Schildgewicht seitlich herunter; die Haltekraefte rechnen jetzt mit dem Gewicht des ganzen Arms samt Schild.",
     "history":  [
+                    {
+                        "version":  "0.6.78",
+                        "messageDe":  "Kampfhaltung-Feinschliff nach dem 0.6.77-Feedback: Die Grundhaltung im Physik-Modus ist jetzt eine geschlossene Kampfstellung - beide Haende vor dem Koerper (auch die Schildhand), Ellenbogen angelegt, Kopf gerade. Der Schildarm hing zuvor durch das Schildgewicht seitlich herunter; die Haltekraefte rechnen jetzt mit dem Gewicht des ganzen Arms samt Schild.",
+                        "messageEn":  "Combat-stance polish after the 0.6.77 feedback: the physical-mode base stance is now a closed fighting guard - both hands in front of the body (including the shield hand), elbows tucked, head straight. The shield arm used to sag sideways under the shield weight; the holding forces now account for the weight of the whole arm including the shield."
+                    },
                     {
                         "version":  "0.6.77",
                         "messageDe":  "Kampfhaltung + Inventar nach eurem Feedback: Im Physik-Modus steht die Figur jetzt in einer kompakten Kampfstellung - Haende vor dem Koerper, Ellenbogen angelegt, Kopf gerade - statt mit ausgebreiteten Armen. Und das Maus-Inventar gibt es schon: Taste I oeffnet das Fenster mit allen Ausruestungs-Slots und Fundstuecken, komplett per Maus bedienbar (Klick zum Anlegen, Ziehen auf Slots) - jetzt mit Hinweis in der Aktionsleiste und beim ersten Fund.",
@@ -26,11 +31,6 @@
                         "version":  "0.6.74",
                         "messageDe":  "Map-Grundsanierung Teil 1: Jeder Raum hat jetzt eine echte Steindecke mit Balken und eigenem Licht - der Blick nach oben endet nicht mehr im Schwarzen, sondern an einem lesbaren Gewoelbe, das auf den Mauerkronen aufliegt. Auf der Empore blendet die Decke automatisch aus, sobald sie der Kamera im Weg waere. Weitere Teile der Map-Ueberarbeitung folgen.",
                         "messageEn":  "Map overhaul part 1: every room now has a real stone ceiling with beams and its own light - looking up no longer ends in blackness but at a readable vault resting on the wall crowns. On the gallery the ceiling fades out automatically whenever it would block the camera. More parts of the map rework are coming."
-                    },
-                    {
-                        "version":  "0.6.73",
-                        "messageDe":  "Physik-Modus-Feinschliff nach eurem Feedback: Die Figur haelt jetzt ihre Kampfhaltung, statt mit ausgebreiteten Armen zu haengen - im Stand ziehen straffe Muskeln die Arme in die animierte Pose, erst im Schwung uebernimmt das schwere Klingen-Gefuehl. Das Zittern beim Aktivieren ist durch deutlich staerkere Daempfung beruhigt, und der Wechsel zwischen Haltung und Schwung blendet weich.",
-                        "messageEn":  "Physical-mode polish based on your feedback: the character now keeps a proper combat stance instead of hanging with outstretched arms - at rest, firm muscles pull the arms into the animated pose, and the heavy blade feel only takes over during a swing. The jitter on activation is calmed by much stronger damping, and the transition between stance and swing blends smoothly."
                     }
                 ]
 }
