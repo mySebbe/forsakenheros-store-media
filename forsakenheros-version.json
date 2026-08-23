@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.76",
+    "latestVersion":  "0.6.77",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.76: Map-Feinschliff: Die Wandflaechen sind jetzt glatt geschlossen - vorspringende Einzel-Kacheln, eine Kachel-Saeule mitten in der Wand und ein altes schwarzes Void-Loch unter der Decke (offene Wandnaht) sind beseitigt. Die Treppen tragen jetzt gemauerte Seitenwangen statt nackter Rohbau-Flanken - an der Westtreppe und an den Galerie-Stufen im Treppenhaus.",
+    "message":  "Tester-Build 0.6.77: Kampfhaltung + Inventar nach eurem Feedback: Im Physik-Modus steht die Figur jetzt in einer kompakten Kampfstellung - Haende vor dem Koerper, Ellenbogen angelegt, Kopf gerade - statt mit ausgebreiteten Armen. Und das Maus-Inventar gibt es schon: Taste I oeffnet das Fenster mit allen Ausruestungs-Slots und Fundstuecken, komplett per Maus bedienbar (Klick zum Anlegen, Ziehen auf Slots) - jetzt mit Hinweis in der Aktionsleiste und beim ersten Fund.",
     "history":  [
+                    {
+                        "version":  "0.6.77",
+                        "messageDe":  "Kampfhaltung + Inventar nach eurem Feedback: Im Physik-Modus steht die Figur jetzt in einer kompakten Kampfstellung - Haende vor dem Koerper, Ellenbogen angelegt, Kopf gerade - statt mit ausgebreiteten Armen. Und das Maus-Inventar gibt es schon: Taste I oeffnet das Fenster mit allen Ausruestungs-Slots und Fundstuecken, komplett per Maus bedienbar (Klick zum Anlegen, Ziehen auf Slots) - jetzt mit Hinweis in der Aktionsleiste und beim ersten Fund.",
+                        "messageEn":  "Combat stance + inventory based on your feedback: in physical mode the character now holds a compact fighting stance - hands in front of the body, elbows tucked in, head straight - instead of outstretched arms. And the mouse inventory already exists: the I key opens the window with all equipment slots and finds, fully mouse-driven (click to equip, drag onto slots) - now with a hint in the action bar and on your first pickup."
+                    },
                     {
                         "version":  "0.6.76",
                         "messageDe":  "Map-Feinschliff: Die Wandflaechen sind jetzt glatt geschlossen - vorspringende Einzel-Kacheln, eine Kachel-Saeule mitten in der Wand und ein altes schwarzes Void-Loch unter der Decke (offene Wandnaht) sind beseitigt. Die Treppen tragen jetzt gemauerte Seitenwangen statt nackter Rohbau-Flanken - an der Westtreppe und an den Galerie-Stufen im Treppenhaus.",
@@ -26,11 +31,6 @@
                         "version":  "0.6.73",
                         "messageDe":  "Physik-Modus-Feinschliff nach eurem Feedback: Die Figur haelt jetzt ihre Kampfhaltung, statt mit ausgebreiteten Armen zu haengen - im Stand ziehen straffe Muskeln die Arme in die animierte Pose, erst im Schwung uebernimmt das schwere Klingen-Gefuehl. Das Zittern beim Aktivieren ist durch deutlich staerkere Daempfung beruhigt, und der Wechsel zwischen Haltung und Schwung blendet weich.",
                         "messageEn":  "Physical-mode polish based on your feedback: the character now keeps a proper combat stance instead of hanging with outstretched arms - at rest, firm muscles pull the arms into the animated pose, and the heavy blade feel only takes over during a swing. The jitter on activation is calmed by much stronger damping, and the transition between stance and swing blends smoothly."
-                    },
-                    {
-                        "version":  "0.6.72",
-                        "messageDe":  "Die zweite Ebene ist komplett ueberarbeitet: Die Bruestungen tragen jetzt echte Steinverkleidung statt roher Bloecke, die Feuerschalen sitzen als Leuchtfeuer in den Ring-Ecken, und der Rundgang hat lesbare Zonen - ein Wachposten mit Fackel an der Treppen-Ankunft, ein Kisten-Lager im Norden und eine Kelch-Nische im Westen. Alles steht an Waenden und Ecken, die Laufwege bleiben frei.",
-                        "messageEn":  "The second floor got a complete rework: the parapets now carry real stone cladding instead of raw blocks, the fire dishes sit as beacons in the ring corners, and the walkway has readable zones - a guard post with a torch at the stair arrival, a crate depot to the north and a chalice niche to the west. Everything stands against walls and corners, the walkways stay clear."
                     }
                 ]
 }
