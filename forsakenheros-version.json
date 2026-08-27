@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.79",
+    "latestVersion":  "0.6.80",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.79: Grosse Feedback-Runde: (1) Physik-Modus - die Grundhaltung ist jetzt entspannt: Arme haengen locker neben dem Koerper, der Kopf steht stabil und gerade, nur echte Treffer lassen ihn kurz nach hinten schwenken. (2) Blocken zeigt eine echte Abwehr - Waffe und Schildhand gehen sichtbar nach vorn-oben. (3) Gegner lassen jetzt Heiltraenke fallen (Boss immer, Elite oft, normale Gegner gelegentlich) - trinkbar mit Q oder per Klick im Inventar. (4) Inventar-Ausbau: Charakter-Skizze mit allen Ausruestungs-Slots zeigt die angelegten Gegenstaende, und die Maus zeigt beim Drueberfahren die vollen Stats jedes Items.",
+    "message":  "Tester-Build 0.6.80: Modus-Gleichstand beim Blocken: Auch im Standard-Modus (ohne Physik) nimmt die Figur beim Blocken jetzt eine sichtbare Abwehrhaltung ein - Waffen- und Schildarm heben sich nach vorn-oben, genau wie im Physik-Modus. Beide Kampf-Modi lesen sich damit gleich, egal mit welcher Einstellung ihr testet.",
     "history":  [
+                    {
+                        "version":  "0.6.80",
+                        "messageDe":  "Modus-Gleichstand beim Blocken: Auch im Standard-Modus (ohne Physik) nimmt die Figur beim Blocken jetzt eine sichtbare Abwehrhaltung ein - Waffen- und Schildarm heben sich nach vorn-oben, genau wie im Physik-Modus. Beide Kampf-Modi lesen sich damit gleich, egal mit welcher Einstellung ihr testet.",
+                        "messageEn":  "Mode parity for blocking: in the standard mode (physics off) the character now takes a visible defensive stance while blocking - weapon and shield arm raise up and forward, exactly like in physical mode. Both combat modes now read the same, whichever setting you test with."
+                    },
                     {
                         "version":  "0.6.79",
                         "messageDe":  "Grosse Feedback-Runde: (1) Physik-Modus - die Grundhaltung ist jetzt entspannt: Arme haengen locker neben dem Koerper, der Kopf steht stabil und gerade, nur echte Treffer lassen ihn kurz nach hinten schwenken. (2) Blocken zeigt eine echte Abwehr - Waffe und Schildhand gehen sichtbar nach vorn-oben. (3) Gegner lassen jetzt Heiltraenke fallen (Boss immer, Elite oft, normale Gegner gelegentlich) - trinkbar mit Q oder per Klick im Inventar. (4) Inventar-Ausbau: Charakter-Skizze mit allen Ausruestungs-Slots zeigt die angelegten Gegenstaende, und die Maus zeigt beim Drueberfahren die vollen Stats jedes Items.",
@@ -26,11 +31,6 @@
                         "version":  "0.6.76",
                         "messageDe":  "Map-Feinschliff: Die Wandflaechen sind jetzt glatt geschlossen - vorspringende Einzel-Kacheln, eine Kachel-Saeule mitten in der Wand und ein altes schwarzes Void-Loch unter der Decke (offene Wandnaht) sind beseitigt. Die Treppen tragen jetzt gemauerte Seitenwangen statt nackter Rohbau-Flanken - an der Westtreppe und an den Galerie-Stufen im Treppenhaus.",
                         "messageEn":  "Map polish: the wall faces are now smoothly closed - protruding single tiles, a tile column in the middle of the wall and an old black void hole under the ceiling (an open wall seam) are gone. The stairs now carry masonry side cheeks instead of bare blockout flanks - on the west stair and on the gallery steps in the stairwell."
-                    },
-                    {
-                        "version":  "0.6.75",
-                        "messageDe":  "Map-Grundsanierung Teil 2: Die Emporen-Gelaender sind jetzt rundum geschlossen verkleidet (auch die Stirnseiten - keine rohen Bloecke mehr), und die Raeume wirken bewohnter: eine Pranger-Ecke an der Suedwand und ein Wacht-Tisch mit Krug und Kerzenstaender an der Nordwand fuellen die bisher kahlen Wandabschnitte. Zusammen mit der neuen Steindecke aus dem letzten Update fuehlt sich der Dungeon damit deutlich massiver und vollstaendiger an.",
-                        "messageEn":  "Map overhaul part 2: the gallery parapets are now fully clad on all sides (including the end faces - no more raw blocks), and the rooms feel more lived-in: a pillory corner on the south wall and a watch table with jug and candle holder on the north wall fill the previously bare wall sections. Together with the new stone ceiling from the last update, the dungeon now feels much more solid and complete."
                     }
                 ]
 }
