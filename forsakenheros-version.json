@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.80",
+    "latestVersion":  "0.6.81",
     "minimumSupportedVersion":  "0.1.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.80: Modus-Gleichstand beim Blocken: Auch im Standard-Modus (ohne Physik) nimmt die Figur beim Blocken jetzt eine sichtbare Abwehrhaltung ein - Waffen- und Schildarm heben sich nach vorn-oben, genau wie im Physik-Modus. Beide Kampf-Modi lesen sich damit gleich, egal mit welcher Einstellung ihr testet.",
+    "message":  "Tester-Build 0.6.81: Map-Sanierung: ebener Boden, geschlossene Waende in den Krypta-Raeumen, Boss-Raum mit Krypta-Fassade statt schwebender Bretter, mehr Licht. Physik-Modus ruht im Stand und greift nur bei Bewegung, Angriff und Block (50 Prozent). Echte Schwertkampf-Sounds statt Piepen.",
     "history":  [
+                    {
+                        "version":  "0.6.81",
+                        "messageDe":  "Map-Sanierung: ebener Boden, geschlossene Waende in den Krypta-Raeumen, Boss-Raum mit Krypta-Fassade statt schwebender Bretter, mehr Licht. Physik-Modus ruht im Stand und greift nur bei Bewegung, Angriff und Block (50 Prozent). Echte Schwertkampf-Sounds statt Piepen.",
+                        "messageEn":  "Map overhaul: level floors, closed walls in the crypt rooms, boss room with a crypt facade instead of floating planks, more light. Physics mode rests while standing and only kicks in when moving, attacking or blocking (50 percent). Real sword-fight sounds instead of beeps."
+                    },
                     {
                         "version":  "0.6.80",
                         "messageDe":  "Modus-Gleichstand beim Blocken: Auch im Standard-Modus (ohne Physik) nimmt die Figur beim Blocken jetzt eine sichtbare Abwehrhaltung ein - Waffen- und Schildarm heben sich nach vorn-oben, genau wie im Physik-Modus. Beide Kampf-Modi lesen sich damit gleich, egal mit welcher Einstellung ihr testet.",
@@ -26,11 +31,6 @@
                         "version":  "0.6.77",
                         "messageDe":  "Kampfhaltung + Inventar nach eurem Feedback: Im Physik-Modus steht die Figur jetzt in einer kompakten Kampfstellung - Haende vor dem Koerper, Ellenbogen angelegt, Kopf gerade - statt mit ausgebreiteten Armen. Und das Maus-Inventar gibt es schon: Taste I oeffnet das Fenster mit allen Ausruestungs-Slots und Fundstuecken, komplett per Maus bedienbar (Klick zum Anlegen, Ziehen auf Slots) - jetzt mit Hinweis in der Aktionsleiste und beim ersten Fund.",
                         "messageEn":  "Combat stance + inventory based on your feedback: in physical mode the character now holds a compact fighting stance - hands in front of the body, elbows tucked in, head straight - instead of outstretched arms. And the mouse inventory already exists: the I key opens the window with all equipment slots and finds, fully mouse-driven (click to equip, drag onto slots) - now with a hint in the action bar and on your first pickup."
-                    },
-                    {
-                        "version":  "0.6.76",
-                        "messageDe":  "Map-Feinschliff: Die Wandflaechen sind jetzt glatt geschlossen - vorspringende Einzel-Kacheln, eine Kachel-Saeule mitten in der Wand und ein altes schwarzes Void-Loch unter der Decke (offene Wandnaht) sind beseitigt. Die Treppen tragen jetzt gemauerte Seitenwangen statt nackter Rohbau-Flanken - an der Westtreppe und an den Galerie-Stufen im Treppenhaus.",
-                        "messageEn":  "Map polish: the wall faces are now smoothly closed - protruding single tiles, a tile column in the middle of the wall and an old black void hole under the ceiling (an open wall seam) are gone. The stairs now carry masonry side cheeks instead of bare blockout flanks - on the west stair and on the gallery steps in the stairwell."
                     }
                 ]
 }
