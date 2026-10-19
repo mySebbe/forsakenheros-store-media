@@ -1,36 +1,16 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.6.81",
-    "minimumSupportedVersion":  "0.1.0",
+    "latestVersion":  "0.7.0",
+    "minimumSupportedVersion":  "0.7.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.6.81: Map-Sanierung: ebener Boden, geschlossene Waende in den Krypta-Raeumen, Boss-Raum mit Krypta-Fassade statt schwebender Bretter, mehr Licht. Physik-Modus ruht im Stand und greift nur bei Bewegung, Angriff und Block (50 Prozent). Echte Schwertkampf-Sounds statt Piepen.",
+    "message":  "Tester-Build 0.7.0: ForsakenHEROS: Reforged - das Spiel wurde von Grund auf neu gebaut. Isometrisches Dark-Fantasy-Action-RPG mit physikgetriebenem Nahkampf: jeder Waffenhieb folgt der echten Klingenbahn, Ruestung pro Koerperzone (Kopf, Torso, Gliedmassen), Haltungsbruch, Niederwerfen und Ragdoll-Tode. Drei Akte mit je drei prozeduralen Etagen durch Kerker, Katakomben und Glutgruben, Akt-Bosse mit mehreren Phasen, Abgrund-Risse als Endspiel. Beute in vier Seltenheiten mit legendaeren Kraeften, Schmied, Haendler und Truhe in der Aschensenke, Faehigkeitenbaum bis Level 60, Stadtportal (T). Der fruehere Koop- und Duellmodus entfaellt; Spielstaende aelterer Versionen sind nicht kompatibel.",
     "history":  [
                     {
-                        "version":  "0.6.81",
-                        "messageDe":  "Map-Sanierung: ebener Boden, geschlossene Waende in den Krypta-Raeumen, Boss-Raum mit Krypta-Fassade statt schwebender Bretter, mehr Licht. Physik-Modus ruht im Stand und greift nur bei Bewegung, Angriff und Block (50 Prozent). Echte Schwertkampf-Sounds statt Piepen.",
-                        "messageEn":  "Map overhaul: level floors, closed walls in the crypt rooms, boss room with a crypt facade instead of floating planks, more light. Physics mode rests while standing and only kicks in when moving, attacking or blocking (50 percent). Real sword-fight sounds instead of beeps."
-                    },
-                    {
-                        "version":  "0.6.80",
-                        "messageDe":  "Modus-Gleichstand beim Blocken: Auch im Standard-Modus (ohne Physik) nimmt die Figur beim Blocken jetzt eine sichtbare Abwehrhaltung ein - Waffen- und Schildarm heben sich nach vorn-oben, genau wie im Physik-Modus. Beide Kampf-Modi lesen sich damit gleich, egal mit welcher Einstellung ihr testet.",
-                        "messageEn":  "Mode parity for blocking: in the standard mode (physics off) the character now takes a visible defensive stance while blocking - weapon and shield arm raise up and forward, exactly like in physical mode. Both combat modes now read the same, whichever setting you test with."
-                    },
-                    {
-                        "version":  "0.6.79",
-                        "messageDe":  "Grosse Feedback-Runde: (1) Physik-Modus - die Grundhaltung ist jetzt entspannt: Arme haengen locker neben dem Koerper, der Kopf steht stabil und gerade, nur echte Treffer lassen ihn kurz nach hinten schwenken. (2) Blocken zeigt eine echte Abwehr - Waffe und Schildhand gehen sichtbar nach vorn-oben. (3) Gegner lassen jetzt Heiltraenke fallen (Boss immer, Elite oft, normale Gegner gelegentlich) - trinkbar mit Q oder per Klick im Inventar. (4) Inventar-Ausbau: Charakter-Skizze mit allen Ausruestungs-Slots zeigt die angelegten Gegenstaende, und die Maus zeigt beim Drueberfahren die vollen Stats jedes Items.",
-                        "messageEn":  "Big feedback round: (1) physical mode - the base stance is now relaxed: arms hang loosely at the sides, the head stays stable and straight, only real hits briefly knock it back. (2) Blocking shows a real defense - weapon and shield hand visibly move up and forward. (3) Enemies now drop healing potions (boss always, elites often, normals occasionally) - drink with Q or by clicking in the inventory. (4) Inventory upgrade: a character sketch with all equipment slots shows what you have equipped, and hovering the mouse over any item shows its full stats."
-                    },
-                    {
-                        "version":  "0.6.78",
-                        "messageDe":  "Kampfhaltung-Feinschliff nach dem 0.6.77-Feedback: Die Grundhaltung im Physik-Modus ist jetzt eine geschlossene Kampfstellung - beide Haende vor dem Koerper (auch die Schildhand), Ellenbogen angelegt, Kopf gerade. Der Schildarm hing zuvor durch das Schildgewicht seitlich herunter; die Haltekraefte rechnen jetzt mit dem Gewicht des ganzen Arms samt Schild.",
-                        "messageEn":  "Combat-stance polish after the 0.6.77 feedback: the physical-mode base stance is now a closed fighting guard - both hands in front of the body (including the shield hand), elbows tucked, head straight. The shield arm used to sag sideways under the shield weight; the holding forces now account for the weight of the whole arm including the shield."
-                    },
-                    {
-                        "version":  "0.6.77",
-                        "messageDe":  "Kampfhaltung + Inventar nach eurem Feedback: Im Physik-Modus steht die Figur jetzt in einer kompakten Kampfstellung - Haende vor dem Koerper, Ellenbogen angelegt, Kopf gerade - statt mit ausgebreiteten Armen. Und das Maus-Inventar gibt es schon: Taste I oeffnet das Fenster mit allen Ausruestungs-Slots und Fundstuecken, komplett per Maus bedienbar (Klick zum Anlegen, Ziehen auf Slots) - jetzt mit Hinweis in der Aktionsleiste und beim ersten Fund.",
-                        "messageEn":  "Combat stance + inventory based on your feedback: in physical mode the character now holds a compact fighting stance - hands in front of the body, elbows tucked in, head straight - instead of outstretched arms. And the mouse inventory already exists: the I key opens the window with all equipment slots and finds, fully mouse-driven (click to equip, drag onto slots) - now with a hint in the action bar and on your first pickup."
+                        "version":  "0.7.0",
+                        "messageDe":  "ForsakenHEROS: Reforged - das Spiel wurde von Grund auf neu gebaut. Isometrisches Dark-Fantasy-Action-RPG mit physikgetriebenem Nahkampf: jeder Waffenhieb folgt der echten Klingenbahn, Ruestung pro Koerperzone (Kopf, Torso, Gliedmassen), Haltungsbruch, Niederwerfen und Ragdoll-Tode. Drei Akte mit je drei prozeduralen Etagen durch Kerker, Katakomben und Glutgruben, Akt-Bosse mit mehreren Phasen, Abgrund-Risse als Endspiel. Beute in vier Seltenheiten mit legendaeren Kraeften, Schmied, Haendler und Truhe in der Aschensenke, Faehigkeitenbaum bis Level 60, Stadtportal (T). Der fruehere Koop- und Duellmodus entfaellt; Spielstaende aelterer Versionen sind nicht kompatibel.",
+                        "messageEn":  "ForsakenHEROS: Reforged - the game has been rebuilt from the ground up. Isometric dark-fantasy action RPG with physics-driven melee: every weapon swing follows the real path of the blade, armor per body zone (head, torso, limbs), poise breaks, knockdowns and ragdoll deaths. Three acts of three procedural floors each through keeps, catacombs and ember pits, multi-phase act bosses and the Abyss Rifts endgame. Loot in four rarities with legendary powers, blacksmith, merchant and stash in Ashen Hollow, a skill tree up to level 60 and a town portal (T). The former co-op and duel modes are gone; saves from older versions are not compatible."
                     }
                 ]
 }
