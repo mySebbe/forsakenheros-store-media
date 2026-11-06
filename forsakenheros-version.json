@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.8.0",
+    "latestVersion":  "0.8.1",
     "minimumSupportedVersion":  "0.7.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.8.0: Zurueck in die dritte Person: Eine nahe Kamera folgt deinem Helden, und deine Maus fuehrt das Schwert durch einen physikalisch simulierten Arm - Tempo, Winkel und Trefferpunkt der Klinge entscheiden ueber den Schaden. Linke Maustaste halten und schwingen, rechte Maustaste deckt mit Klinge oder Schild, die linke Strg-Taste sticht, das Mausrad dreht die Schneide; ein Uebungspfahl in der Aschensenke und Hinweise auf der ersten Ebene fuehren ein. Groessere Gewoelbe mit Decken, Fackellicht mit Echtzeit-Globalbeleuchtung und vier Grafikstufen, eine neue Klangkulisse aus echten Aufnahmen mit Kampftrommeln, sobald ein Rudel angreift. Akte, Risse, Beute, Fertigkeiten und dein Held aus 0.7.0 bleiben.",
+    "message":  "Tester-Build 0.8.1: Kamera, Griffe und Schwung: Die Maus dreht die Kamera wieder (ohne gedrueckte Taste, ebenso der rechte Stick). Waffen sitzen richtig in der Hand - Schwerter direkt unter der Parierstange, Aexte und der Morgenstern am Stielende, Speere im hinteren Drittel. Weitere Schwuenge: Die Schwerthand reicht weiter zur Seite, hoeher und tiefer, und der Oberkoerper dreht kraeftiger mit; auch Tipp-Schlaege schwingen weiter.",
     "history":  [
+                    {
+                        "version":  "0.8.1",
+                        "messageDe":  "Kamera, Griffe und Schwung: Die Maus dreht die Kamera wieder (ohne gedrueckte Taste, ebenso der rechte Stick). Waffen sitzen richtig in der Hand - Schwerter direkt unter der Parierstange, Aexte und der Morgenstern am Stielende, Speere im hinteren Drittel. Weitere Schwuenge: Die Schwerthand reicht weiter zur Seite, hoeher und tiefer, und der Oberkoerper dreht kraeftiger mit; auch Tipp-Schlaege schwingen weiter.",
+                        "messageEn":  "Camera, grips and swing: the mouse turns the camera again (with no button held; the right stick too). Weapons sit right in the hand - swords just below the crossguard, axes and the morning star at the end of the haft, spears in the rear third. Wider swings: the sword hand reaches further out, higher and lower, and the upper body winds in harder; tapped strokes swing wider too."
+                    },
                     {
                         "version":  "0.8.0",
                         "messageDe":  "Zurueck in die dritte Person: Eine nahe Kamera folgt deinem Helden, und deine Maus fuehrt das Schwert durch einen physikalisch simulierten Arm - Tempo, Winkel und Trefferpunkt der Klinge entscheiden ueber den Schaden. Linke Maustaste halten und schwingen, rechte Maustaste deckt mit Klinge oder Schild, die linke Strg-Taste sticht, das Mausrad dreht die Schneide; ein Uebungspfahl in der Aschensenke und Hinweise auf der ersten Ebene fuehren ein. Groessere Gewoelbe mit Decken, Fackellicht mit Echtzeit-Globalbeleuchtung und vier Grafikstufen, eine neue Klangkulisse aus echten Aufnahmen mit Kampftrommeln, sobald ein Rudel angreift. Akte, Risse, Beute, Fertigkeiten und dein Held aus 0.7.0 bleiben.",
