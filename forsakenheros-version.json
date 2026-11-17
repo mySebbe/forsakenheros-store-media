@@ -1,12 +1,17 @@
 {
     "product":  "ForsakenHEROS",
-    "latestVersion":  "0.8.1",
+    "latestVersion":  "0.8.2",
     "minimumSupportedVersion":  "0.7.0",
     "microsoftStoreUrl":  "https://apps.microsoft.com/detail/9N5BP8H09SDK",
     "epicStoreUrl":  "",
     "steamStoreUrl":  "",
-    "message":  "Tester-Build 0.8.1: Kamera, Griffe und Schwung: Die Maus dreht die Kamera wieder (ohne gedrueckte Taste, ebenso der rechte Stick). Waffen sitzen richtig in der Hand - Schwerter direkt unter der Parierstange, Aexte und der Morgenstern am Stielende, Speere im hinteren Drittel. Weitere Schwuenge: Die Schwerthand reicht weiter zur Seite, hoeher und tiefer, und der Oberkoerper dreht kraeftiger mit; auch Tipp-Schlaege schwingen weiter.",
+    "message":  "Tester-Build 0.8.2: Kamera, Griffe und viele Feinschliffe: Die Kamera rueckt etwas zurueck, damit der ganze Held samt Fuessen im Bild bleibt, und der Ellbogen folgt der Hand fuer einen natuerlicheren Schwertgriff. Alle Waffenpakete sitzen jetzt richtig in der Hand. Die Schildmaid startet mit Schild, Seher-Geschosse fliegen ueber Kleinkram hinweg, der Faehigkeitenbaum pausiert das Spiel, die Schlaghilfe am Gamepad ist abschaltbar, ein Boss stellt sich pro Kampf nur einmal vor, und das HUD hat viele Verbesserungen bekommen.",
     "history":  [
+                    {
+                        "version":  "0.8.2",
+                        "messageDe":  "Kamera, Griffe und viele Feinschliffe: Die Kamera rueckt etwas zurueck, damit der ganze Held samt Fuessen im Bild bleibt, und der Ellbogen folgt der Hand fuer einen natuerlicheren Schwertgriff. Alle Waffenpakete sitzen jetzt richtig in der Hand. Die Schildmaid startet mit Schild, Seher-Geschosse fliegen ueber Kleinkram hinweg, der Faehigkeitenbaum pausiert das Spiel, die Schlaghilfe am Gamepad ist abschaltbar, ein Boss stellt sich pro Kampf nur einmal vor, und das HUD hat viele Verbesserungen bekommen.",
+                        "messageEn":  "Camera, grips and polish: the camera pulls back a little so the whole hero, feet included, stays in view, and the elbow follows the hand for a more natural sword grip. Every weapon pack now sits right in the hand. The Shieldmaiden starts with a shield, seer bolts fly over clutter, the skill tree pauses the game, the pad swing assist can be turned off, a boss introduces itself once per fight, and the HUD got many fixes."
+                    },
                     {
                         "version":  "0.8.1",
                         "messageDe":  "Kamera, Griffe und Schwung: Die Maus dreht die Kamera wieder (ohne gedrueckte Taste, ebenso der rechte Stick). Waffen sitzen richtig in der Hand - Schwerter direkt unter der Parierstange, Aexte und der Morgenstern am Stielende, Speere im hinteren Drittel. Weitere Schwuenge: Die Schwerthand reicht weiter zur Seite, hoeher und tiefer, und der Oberkoerper dreht kraeftiger mit; auch Tipp-Schlaege schwingen weiter.",
